@@ -1,4 +1,4 @@
-# PEMOGRAMAAN WEB
+# PEMOGRAMAAN WEB PHP
 
 Nafal Mumtaz Fuadi (312110457)
 
@@ -23,7 +23,7 @@ Untuk dapat menjalankan Xampp ini kalian perlu membukanya terlebih dulu, setelah
 
 ## MEMULAI PHP
 
-Pertama, buatlah folder Lab7_php_dasar pada root directory web server (c:xampp/htdocs)
+Pertama, buatlah folder Lab2_php_dasar pada root directory web server (c:xampp/htdocs)
 
 ![menambahkan_gambar](img/BIKIN%20FOLDER%20LAB2.png)
 
@@ -73,7 +73,7 @@ Untuk mendapatkan tampilan seperti diatas kalian bisa menambahkan kode berikut:
 
 ## PREDEFINE $_GET
 
-Buatlah file baru dalam Directory Lab_php_dasar dengan nama file disini saya namakan dengan Lat1.php dan untuk mengaksesnya dapat menggunakan URL : http://localhost:8080/Lab2Web/Lab2_php_dasar/Lat1.php?nama=%20Nafal
+Buatlah file baru dalam Directory Lab2_php_dasar dengan nama file disini saya namakan dengan Lat1.php dan untuk mengaksesnya dapat menggunakan URL : localhost/Lab2Web/Lab2web/Lat1.php?nama=%20Nafal
 
 ![menambahkan_gambar](img/PREDEFINE.png)
 
@@ -102,7 +102,7 @@ Berikut kode yang digunakan:
 
 ![menambahkan_gambar](img/FORM%20INPUT.png)
 
-Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya namakan Lat2.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya namakan Lat2.php dalam directory Lab2_php_dasar. Kemudian tambahkan kode berikut:
 
 ```php
 <!DOCTYPE html>
