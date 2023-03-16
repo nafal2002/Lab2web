@@ -1,6 +1,6 @@
 # PEMOGRAMAAN WEB
 
-NAFAL MUMTAZ FUADI (312110457)
+Nafal Mumtaz Fuadi (312110457)
 
 Teknik Informatika - UNIVERSITAS PELITA BANGSA
 ______________________________________________
@@ -73,7 +73,7 @@ Untuk mendapatkan tampilan seperti diatas kalian bisa menambahkan kode berikut:
 
 ## PREDEFINE $_GET
 
-Buatlah file baru dalam Directory Lab_php_dasar dengan nama file disini saya namakan dengan Lat1.php dan untuk mengaksesnya dapat menggunakan URL : http://localhost:8080/Lab7Web/Lab7_php_dasar/Lat1.php?nama=%20Diyanarum
+Buatlah file baru dalam Directory Lab_php_dasar dengan nama file disini saya namakan dengan Lat1.php dan untuk mengaksesnya dapat menggunakan URL : http://localhost:8080/Lab2Web/Lab2_php_dasar/Lat1.php?nama=%20Nafal
 
 ![menambahkan_gambar](img/PREDEFINE.png)
 
@@ -129,7 +129,7 @@ Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya n
 
 ![menambahkan_gambar](img/OPERATOR.png)
 
-Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya namakan Lat3.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya namakan Lat3.php dalam directory Lab2_php_dasar. Kemudian tambahkan kode berikut:
 
 ```php
 <!DOCTYPE html>
@@ -156,7 +156,7 @@ Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya n
 
 ![menambahkan_gambar](img/KONDISI%20IF.png)
 
-Untuk mendapat tampilan pengkondisian IF ELSE seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat4.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan pengkondisian IF ELSE seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat4.php dalam directory Lab2_php_dasar. Kemudian tambahkan kode berikut:
 
 ```php
 <!DOCTYPE html>
@@ -187,7 +187,7 @@ Untuk mendapat tampilan pengkondisian IF ELSE seperti diatas, buatlah file baru 
 
 ![menambahkan_gambar](img/KONDISI%20SWITCH.png)
 
-Untuk mendapat tampilan pengkondisian SWITCH CASE dengan break seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat5.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan pengkondisian SWITCH CASE dengan break seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat5.php dalam directory Lab2_php_dasar. Kemudian tambahkan kode berikut:
 
 ```php
 <h2>Kondisi Switch</h2>
@@ -214,7 +214,7 @@ Untuk mendapat tampilan pengkondisian SWITCH CASE dengan break seperti diatas, b
 
 ![menambahkan_gambar](img/PERULANGAN%20FOR.png)
 
-Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat6.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat6.php dalam directory Lab2_php_dasar. Kemudian tambahkan kode berikut:
 
 ```php
 <!DOCTYPE html>
@@ -245,7 +245,7 @@ Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disin
 
 ![menambahkan_gambar](img/PERULANGAN%20WHILE.png)
 
-Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat6.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat6.php dalam directory Lab2_php_dasar. Kemudian tambahkan kode berikut:
 
 ```php
 <h2>Perulangan While</h2>
@@ -263,7 +263,7 @@ Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disin
 
 ![menambahkan_gambar](img/PERULANGAN%20DOWHILE.png)
 
-Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat6.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat6.php dalam directory Lab2_php_dasar. Kemudian tambahkan kode berikut:
 
 ```php
 <h2>Perulangan Dowhile</h2>
