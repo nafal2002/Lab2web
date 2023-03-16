@@ -1,8 +1,8 @@
 # PEMOGRAMAAN WEB PHP
 
-Nafal Mumtaz Fuadi (312110457)
+🔱 Nafal Mumtaz Fuadi (312110457) 🔱
 
-Teknik Informatika - UNIVERSITAS PELITA BANGSA
+➡️Teknik Informatika - UNIVERSITAS PELITA BANGSA🌈
 ______________________________________________
 
 ## MELAKUKAN INSTALL PADA XAMPP
@@ -23,11 +23,11 @@ Untuk dapat menjalankan Xampp ini kalian perlu membukanya terlebih dulu, setelah
 
 ## MEMULAI PHP
 
-Pertama, buatlah folder Lab2_php_dasar pada root directory web server (c:xampp/htdocs)
+Pertama, buatlah folder Lab2web pada root directory web server (c:xampp/htdocs)
 
 ![menambahkan_gambar](img/BIKIN%20FOLDER%20LAB2.png)
 
-Setelahnya kalian dapat mengakses directory pada web server seperti gambar dibawah dengan menggunakan URL : http://localhost:8080/Lab7Web/Lab7_php_dasar/
+Setelahnya kalian dapat mengakses directory pada web server seperti gambar dibawah dengan menggunakan URL : localhost/Lab2web/Lab2web/
 
 ![menambahkan_gambar](img/CEK%20WEB%20SERVER.png)
 
@@ -73,7 +73,7 @@ Untuk mendapatkan tampilan seperti diatas kalian bisa menambahkan kode berikut:
 
 ## PREDEFINE $_GET
 
-Buatlah file baru dalam Directory Lab2_php_dasar dengan nama file disini saya namakan dengan Lat1.php dan untuk mengaksesnya dapat menggunakan URL : localhost/Lab2Web/Lab2web/Lat1.php?nama=%20Nafal
+Buatlah file baru dalam Directory Lab2web dengan nama file disini saya namakan dengan Lat1.php dan untuk mengaksesnya dapat menggunakan URL : localhost/Lab2Web/Lab2web/Lat1.php?nama=%20Nafal
 
 ![menambahkan_gambar](img/PREDEFINE.png)
 
@@ -102,7 +102,7 @@ Berikut kode yang digunakan:
 
 ![menambahkan_gambar](img/FORM%20INPUT.png)
 
-Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya namakan Lat2.php dalam directory Lab2_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya namakan Lat2.php dalam directory Lab2web. Kemudian tambahkan kode berikut:
 
 ```php
 <!DOCTYPE html>
@@ -129,7 +129,7 @@ Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya n
 
 ![menambahkan_gambar](img/OPERATOR.png)
 
-Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya namakan Lat3.php dalam directory Lab2_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya namakan Lat3.php dalam directory Lab2web. Kemudian tambahkan kode berikut:
 
 ```php
 <!DOCTYPE html>
@@ -156,7 +156,7 @@ Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya n
 
 ![menambahkan_gambar](img/KONDISI%20IF.png)
 
-Untuk mendapat tampilan pengkondisian IF ELSE seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat4.php dalam directory Lab2_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan pengkondisian IF ELSE seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat4.php dalam directory Lab2web. Kemudian tambahkan kode berikut:
 
 ```php
 <!DOCTYPE html>
@@ -187,7 +187,7 @@ Untuk mendapat tampilan pengkondisian IF ELSE seperti diatas, buatlah file baru 
 
 ![menambahkan_gambar](img/KONDISI%20SWITCH.png)
 
-Untuk mendapat tampilan pengkondisian SWITCH CASE dengan break seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat5.php dalam directory Lab2_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan pengkondisian SWITCH CASE dengan break seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat5.php dalam directory Lab2web. Kemudian tambahkan kode berikut:
 
 ```php
 <h2>Kondisi Switch</h2>
@@ -214,7 +214,7 @@ Untuk mendapat tampilan pengkondisian SWITCH CASE dengan break seperti diatas, b
 
 ![menambahkan_gambar](img/PERULANGAN%20FOR.png)
 
-Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat6.php dalam directory Lab2_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat6.php dalam directory Lab2web. Kemudian tambahkan kode berikut:
 
 ```php
 <!DOCTYPE html>
@@ -245,7 +245,7 @@ Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disin
 
 ![menambahkan_gambar](img/PERULANGAN%20WHILE.png)
 
-Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat6.php dalam directory Lab2_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat7.php dalam directory Lab2web. Kemudian tambahkan kode berikut:
 
 ```php
 <h2>Perulangan While</h2>
@@ -263,7 +263,7 @@ Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disin
 
 ![menambahkan_gambar](img/PERULANGAN%20DOWHILE.png)
 
-Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat6.php dalam directory Lab2_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat8.php dalam directory Lab2web. Kemudian tambahkan kode berikut:
 
 ```php
 <h2>Perulangan Dowhile</h2>
