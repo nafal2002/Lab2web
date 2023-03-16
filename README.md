@@ -1,6 +1,6 @@
 # PEMOGRAMAAN WEB
 
-Diyan Arum Maheswari (312010133)
+NAFAL MUMTAZ FUADI (312110457)
 
 Teknik Informatika - UNIVERSITAS PELITA BANGSA
 ______________________________________________
